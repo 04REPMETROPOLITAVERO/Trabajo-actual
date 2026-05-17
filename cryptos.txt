@@ -1,4 +1,1 @@
-	BTC
-	ETH
-	ADA
-	EGLD
+	
